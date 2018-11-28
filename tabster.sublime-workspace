@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"result"
+			],
+			[
+				"p",
+				"photo"
+			],
+			[
+				"resta",
+				"restaurant_list"
+			],
+			[
+				"jso",
+				"json_data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\n# Please enter the commit message for your changes. Lines starting\n# with '#' will be ignored, and an empty message aborts the commit.\n# On branch master\n#\n# Initial commit\n#\n# Changes to be committed:\n#   (use \"git rm --cached <file>...\" to unstage)\n#\n#\tnew file:   .DS_Store\n#\tnew file:   __pycache__/app.cpython-36.pyc\n#\tnew file:   __pycache__/config.cpython-36.pyc\n#\tnew file:   app.db\n#\tnew file:   app.py\n#\tnew file:   config.py\n#\tnew file:   migrations/README\n#\tnew file:   migrations/__pycache__/env.cpython-36.pyc\n#\tnew file:   migrations/alembic.ini\n#\tnew file:   migrations/env.py\n#\tnew file:   migrations/script.py.mako\n#\tnew file:   migrations/versions/6a74c3093807_users_table.py\n#\tnew file:   migrations/versions/9d257f293541_posts_table.py\n#\tnew file:   migrations/versions/__pycache__/6a74c3093807_users_table.cpython-36.pyc\n#\tnew file:   migrations/versions/__pycache__/9d257f293541_posts_table.cpython-36.pyc\n#\tnew file:   tabster.sublime-project\n#\tnew file:   tabster.sublime-workspace\n#\tnew file:   tabster/__init__.py\n#\tnew file:   tabster/__pycache__/__init__.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/errors.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/forms.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/models.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/utilities.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/views.cpython-36.pyc\n#\tnew file:   tabster/errors.py\n#\tnew file:   tabster/forms.py\n#\tnew file:   tabster/models.py\n#\tnew file:   tabster/modelsVecchio.py\n#\tnew file:   tabster/static/bgimage.jpg\n#\tnew file:   tabster/static/css/bootstrap-grid.css\n#\tnew file:   tabster/static/css/bootstrap-grid.css.map\n#\tnew file:   tabster/static/css/bootstrap-grid.min.css\n#\tnew file:   tabster/static/css/bootstrap-grid.min.css.map\n#\tnew file:   tabster/static/css/bootstrap-reboot.css\n#\tnew file:   tabster/static/css/bootstrap-reboot.css.map\n#\tnew file:   tabster/static/css/bootstrap-reboot.min.css\n#\tnew file:   tabster/static/css/bootstrap-reboot.min.css.map\n#\tnew file:   tabster/static/css/bootstrap.css\n#\tnew file:   tabster/static/css/bootstrap.css.map\n#\tnew file:   tabster/static/css/bootstrap.min.css\n#\tnew file:   tabster/static/css/bootstrap.min.css.map\n#\tnew file:   tabster/static/css/style.css\n#\tnew file:   tabster/static/custom.css\n#\tnew file:   tabster/static/js/bootstrap.bundle.js\n#\tnew file:   tabster/static/js/bootstrap.bundle.js.map\n#\tnew file:   tabster/static/js/bootstrap.bundle.min.js\n#\tnew file:   tabster/static/js/bootstrap.bundle.min.js.map\n#\tnew file:   tabster/static/js/bootstrap.js\n#\tnew file:   tabster/static/js/bootstrap.js.map\n#\tnew file:   tabster/static/js/bootstrap.min.js\n#\tnew file:   tabster/static/js/bootstrap.min.js.map\n#\tnew file:   tabster/static/js/index.js\n#\tnew file:   tabster/templates/404.html\n#\tnew file:   tabster/templates/500.html\n#\tnew file:   tabster/templates/base.html\n#\tnew file:   tabster/templates/files.html\n#\tnew file:   tabster/templates/index.html\n#\tnew file:   tabster/templates/login.html\n#\tnew file:   tabster/templates/oldindex.html\n#\tnew file:   tabster/templates/search.html\n#\tnew file:   tabster/templates/single_col.html\n#\tnew file:   tabster/utilities.py\n#\tnew file:   tabster/views.py\n#\n",
+			"settings":
+			{
+				"buffer_size": 3220,
+				"line_ending": "Unix",
+				"name": "COMMIT_EDITMSG",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"remote",
+				"Git: Remote"
+			],
+			[
+				"upstr",
+				"Github: Repository"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git remo",
+				"Git: Add Remote"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Git ",
+				"Git: Init"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"Color",
+				"GutterColor: Clear Cache"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Flask",
+				"Snippet: FlaskRoute"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"quot",
+				"ChangeQuotes"
+			],
+			[
+				"trimmer",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Clips",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster"
+	],
+	"file_history":
+	[
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/templates/index.html",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/static/css/style.css",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/views.py",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/templates/base.html",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/templates/single_col.html",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/templates/files.html",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/static/custom.css",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/templates/oldindex.html",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/config.py",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/__init__.py",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/modelsVecchio.py",
+		"/Users/chiccolacriola/Workspace/Python/card.py",
+		"/Users/chiccolacriola/Desktop/script.sh",
+		"/Users/chiccolacriola/UnityProjects/Prova/Assets/Scripts/PlayerController.cs",
+		"/Users/chiccolacriola/Documents/GameDev/Assets/2D/2D Hand Painted Town Tileset/Assets/Hand Painted Town Level.json",
+		"/Users/chiccolacriola/Downloads/index.html",
+		"/Users/chiccolacriola/Desktop/index.html",
+		"/Users/chiccolacriola/Desktop/index.php",
+		"/Users/chiccolacriola/Workspace/Java/RinocitologiaClient2/src/clips/diagnosi.clp",
+		"/Users/chiccolacriola/Workspace/Java/RinocitologiaClient2/src/clips/fatti.clp",
+		"/Users/chiccolacriola/Workspace/Java/RinocitologiaClient/classificatore.py",
+		"/Users/chiccolacriola/data/LCRFNC96A18A662L/reports/report.json",
+		"/Users/chiccolacriola/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/A6782CE9-416D-4AA5-9D96-72A54FF7ED55/Bot Auto Click/Bot Auto Click.py",
+		"/Users/chiccolacriola/Documents/Trofei/Horizon ",
+		"/Users/chiccolacriola/data/TESTN196A18A662L/reports/report.json",
+		"/Users/chiccolacriola/Workspace/Java/RinocitologiaClient/comuni.json",
+		"/Users/chiccolacriola/Workspace/Java/RinocitologiaClient/src/views/tableview.css",
+		"/Users/chiccolacriola/Downloads/JFXTreeTableView/src/jfxtreetableview/FXMLDocumentController.java",
+		"/Users/chiccolacriola/Workspace/Python/prova.py",
+		"/Users/chiccolacriola/Downloads/VAD-python-master/README.md",
+		"/Users/chiccolacriola/Downloads/VAD-python-master/detectVoiceInWave.py",
+		"/Users/chiccolacriola/Downloads/VAD-python-master/vad.py",
+		"/Users/chiccolacriola/Workspace/Python/sound2.html",
+		"/Users/chiccolacriola/Workspace/Python/sound2.py",
+		"/Users/chiccolacriola/Workspace/Python/sound.py",
+		"/Users/chiccolacriola/Downloads/biofilm_detection_java.py",
+		"/Users/chiccolacriola/Desktop/biofilm_detection_java.py",
+		"/Users/chiccolacriola/Desktop/Python prove tesi/untitled.py",
+		"/Users/chiccolacriola/Desktop/Python prove tesi/barcode.py",
+		"/Users/chiccolacriola/Workspace/Java/Rinocitologia/watershed_extraction.py",
+		"/Users/chiccolacriola/Downloads/Credit-Card-Recognition-master/ocr_template_match.py",
+		"/Users/chiccolacriola/Workspace/Web/index4.html",
+		"/Users/chiccolacriola/Workspace/Web/index3.html",
+		"/Users/chiccolacriola/Workspace/Web/index2.html",
+		"/Users/chiccolacriola/Workspace/Web/index.html",
+		"/Users/chiccolacriola/Workspace/Java/Rinocitologia/classificatore.py",
+		"/Users/chiccolacriola/Desktop/Python prove tesi/classificatore.py",
+		"/Users/chiccolacriola/Workspace/Java/Rinocitologia/webcam.py",
+		"/Users/chiccolacriola/Workspace/Java/Rinocitologia/foto.py",
+		"/Users/chiccolacriola/Desktop/Python prove tesi/webcam.py",
+		"/Users/chiccolacriola/Workspace/Java/Fetecchie/test1.py",
+		"/Users/chiccolacriola/Desktop/Python prove tesi/prova.py",
+		"/Users/chiccolacriola/Desktop/Python prove tesi/py4jprova.py",
+		"/Users/chiccolacriola/Desktop/Python prove tesi/card.py",
+		"/Users/chiccolacriola/Desktop/card.py",
+		"/Users/chiccolacriola/Desktop/barcode.py",
+		"/Users/chiccolacriola/Desktop/py4jprova.py",
+		"/Users/chiccolacriola/data/PNCPLL96A18A662L/reports/report.json",
+		"/Users/chiccolacriola/data/Anonimo_33/reports/report.json",
+		"/Users/chiccolacriola/Workspace/Java/InterfacciaCell/src/views/questions.css",
+		"/Users/chiccolacriola/data/Anonimo_2/reports/report.json",
+		"/Users/chiccolacriola/data/DONPTR96A18A662L/reports/report.json",
+		"/Users/chiccolacriola/data3/lastsession.json",
+		"/Users/chiccolacriola/Desktop/Tesi/Abstract Lacriola.txt",
+		"/Users/chiccolacriola/data/Anonimo_53/reports/report.json",
+		"/Users/chiccolacriola/data/Anonimo_30/reports/report.json",
+		"/Users/chiccolacriola/data/LCRVTI62P06A662O/reports/report.json",
+		"/Users/chiccolacriola/data/CRZZZZ96A18A662L/reports/report.json",
+		"/Users/chiccolacriola/data/LCRFNC96A18A662M/reports/report.json",
+		"/Users/chiccolacriola/data/GNNSVT96A18A662L/reports/report.json",
+		"/Users/chiccolacriola/data/Anonimo_1/reports/report.json",
+		"/Users/chiccolacriola/data/Anonimo_77/reports/report.json",
+		"/Users/chiccolacriola/data/Anonimo_75/reports/report.json",
+		"/Users/chiccolacriola/data/Pinco_Pallino/reports/report.json",
+		"/Users/chiccolacriola/data/Pinco_Pallino/reports/Pinco_Pallino.json",
+		"/Users/chiccolacriola/Workspace/Java/InterfacciaCell/src/views/tabCSS.css",
+		"/Users/chiccolacriola/Workspace/Java/InterfacciaCell/src/views/contextMenu.css",
+		"/Users/chiccolacriola/Workspace/Java/Prove/src/main/java/codeReader.py",
+		"/Users/chiccolacriola/Downloads/webcam-capture-0.3.12-dist/README.md",
+		"/Users/chiccolacriola/data/lastsession.json",
+		"/Users/chiccolacriola/Desktop/prova.html",
+		"/Users/chiccolacriola/Downloads/ClipsManager.java",
+		"/Users/chiccolacriola/data/Lac_Gua/inputs/Lac_Gua.txt",
+		"/Users/chiccolacriola/data/gian_sekko/reports/gian_sekko.json",
+		"/Users/chiccolacriola/Rinocitologia/untitled.clp",
+		"/Users/chiccolacriola/Rinocitologia/prova.py",
+		"/Users/chiccolacriola/Rinocitologia/try",
+		"/Users/chiccolacriola/Rinocitologia/start.clp",
+		"/Users/chiccolacriola/Rinocitologia/rinocitologia/__init__.py",
+		"/Users/chiccolacriola/Rinocitologia/VALUES/contacellule.clp",
+		"/Users/chiccolacriola/Rinocitologia/start.py",
+		"/Users/chiccolacriola/Rinocitologia/conta.py",
+		"/Users/chiccolacriola/Rinocitologia/rinocitologia/conta.py",
+		"/Users/chiccolacriola/Workspace/Old/keylogger.py",
+		"/Users/chiccolacriola/Workspace/snake.py",
+		"/Users/chiccolacriola/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/chiccolacriola/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/chiccolacriola/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/chiccolacriola/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/chiccolacriola/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/chiccolacriola/Workspace/RistO'Track/app/templates/prova.html",
+		"/Users/chiccolacriola/Workspace/RistO'Track/app/templates/index.html",
+		"/Users/chiccolacriola/Workspace/RistO'Track/app/templates/search.html",
+		"/Users/chiccolacriola/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/chiccolacriola/Workspace/RistO'Track/ristotrack.py",
+		"/Users/chiccolacriola/Workspace/RistO'Track/app/img.png",
+		"/Users/chiccolacriola/Desktop/Rinocitologia/unificato/startmac2.clp",
+		"/Users/chiccolacriola/Desktop/Rinocitologia/unificato/prova",
+		"/Users/chiccolacriola/Desktop/Rinocitologia/Rinocitologia - Diagnosi/info",
+		"/Users/chiccolacriola/Desktop/Rinocitologia/Rinocitologia - Diagnosi/Immagini/tab7.5.JPG",
+		"/Users/chiccolacriola/Desktop/Rinocitologia/unificato/prova.c",
+		"/Users/chiccolacriola/Workspace/prova.c"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/chiccolacriola/Desktop/Chicco/Fincons/HTML, CSS, JS",
+							"git_repo": "/Users/chiccolacriola/Workspace/Tabs/Tabster",
+							"git_view": "commit",
+							"syntax": "Packages/SublimeGit/syntax/SublimeGit Commit Message.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 138.0
+	},
+	"output.git-push":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "",
+	"project": "tabster.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

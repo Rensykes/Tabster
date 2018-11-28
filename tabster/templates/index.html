@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!--refers to main.py -->
+<div align="center">
+ <h2>Search Tab</h2>
+
+  <p class="home">Insert a valid Ultimateguitar Url to save it in your list!</p>
+  <form method="POST" action="/">
+   <label>Link:  </label>
+   <input type="text" name="title">
+   <input type="submit" value="Add">
+ </form>
+</div>
+<div align="center">
+ <br>
+<h2>Upload File </h2>
+<p class="home">Search and upload from your file system a tabulatrue. Allowed pdf, jpg and png</p>
+<form method="POST" action="files" enctype=multipart/form-data>
+      <label>Titolo:  </label>
+      <input type="text" name="title"><br>
+      <label>Artista:  </label>
+      <input type="text" name="artist"><br>
+      <label>Capo:  </label>
+      <input type="text" name="capo"><br>
+      <label>Youtube:  </label>
+      <input type="text" name="youtube"><br>
+      <label>Tuning:  </label>
+      <input type="text" name="tuning"><br>
+      <input type=file name=file>
+      <input type=submit value=Upload>
+</form>
+</div>
+{% endblock %}
+
+{% block list %}
+<!--
+<h1>{{intestation}}</h1>
+<ul>
+	{% for tabs in tab %}
+	<li class="list-item">
+		{{tabs.title}} + {{tabs.author}} + <a href="{{tabs.url}}">Link</a> + {{tabs.typology}} + {{tabs.tuning}}
+	</li>
+	{% endfor %}
+</ul>
+
+-->
+{% endblock %}
