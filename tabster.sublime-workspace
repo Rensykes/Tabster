@@ -23,16 +23,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "\n\n# Please enter the commit message for your changes. Lines starting\n# with '#' will be ignored, and an empty message aborts the commit.\n# On branch master\n#\n# Initial commit\n#\n# Changes to be committed:\n#   (use \"git rm --cached <file>...\" to unstage)\n#\n#\tnew file:   .DS_Store\n#\tnew file:   __pycache__/app.cpython-36.pyc\n#\tnew file:   __pycache__/config.cpython-36.pyc\n#\tnew file:   app.db\n#\tnew file:   app.py\n#\tnew file:   config.py\n#\tnew file:   migrations/README\n#\tnew file:   migrations/__pycache__/env.cpython-36.pyc\n#\tnew file:   migrations/alembic.ini\n#\tnew file:   migrations/env.py\n#\tnew file:   migrations/script.py.mako\n#\tnew file:   migrations/versions/6a74c3093807_users_table.py\n#\tnew file:   migrations/versions/9d257f293541_posts_table.py\n#\tnew file:   migrations/versions/__pycache__/6a74c3093807_users_table.cpython-36.pyc\n#\tnew file:   migrations/versions/__pycache__/9d257f293541_posts_table.cpython-36.pyc\n#\tnew file:   tabster.sublime-project\n#\tnew file:   tabster.sublime-workspace\n#\tnew file:   tabster/__init__.py\n#\tnew file:   tabster/__pycache__/__init__.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/errors.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/forms.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/models.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/utilities.cpython-36.pyc\n#\tnew file:   tabster/__pycache__/views.cpython-36.pyc\n#\tnew file:   tabster/errors.py\n#\tnew file:   tabster/forms.py\n#\tnew file:   tabster/models.py\n#\tnew file:   tabster/modelsVecchio.py\n#\tnew file:   tabster/static/bgimage.jpg\n#\tnew file:   tabster/static/css/bootstrap-grid.css\n#\tnew file:   tabster/static/css/bootstrap-grid.css.map\n#\tnew file:   tabster/static/css/bootstrap-grid.min.css\n#\tnew file:   tabster/static/css/bootstrap-grid.min.css.map\n#\tnew file:   tabster/static/css/bootstrap-reboot.css\n#\tnew file:   tabster/static/css/bootstrap-reboot.css.map\n#\tnew file:   tabster/static/css/bootstrap-reboot.min.css\n#\tnew file:   tabster/static/css/bootstrap-reboot.min.css.map\n#\tnew file:   tabster/static/css/bootstrap.css\n#\tnew file:   tabster/static/css/bootstrap.css.map\n#\tnew file:   tabster/static/css/bootstrap.min.css\n#\tnew file:   tabster/static/css/bootstrap.min.css.map\n#\tnew file:   tabster/static/css/style.css\n#\tnew file:   tabster/static/custom.css\n#\tnew file:   tabster/static/js/bootstrap.bundle.js\n#\tnew file:   tabster/static/js/bootstrap.bundle.js.map\n#\tnew file:   tabster/static/js/bootstrap.bundle.min.js\n#\tnew file:   tabster/static/js/bootstrap.bundle.min.js.map\n#\tnew file:   tabster/static/js/bootstrap.js\n#\tnew file:   tabster/static/js/bootstrap.js.map\n#\tnew file:   tabster/static/js/bootstrap.min.js\n#\tnew file:   tabster/static/js/bootstrap.min.js.map\n#\tnew file:   tabster/static/js/index.js\n#\tnew file:   tabster/templates/404.html\n#\tnew file:   tabster/templates/500.html\n#\tnew file:   tabster/templates/base.html\n#\tnew file:   tabster/templates/files.html\n#\tnew file:   tabster/templates/index.html\n#\tnew file:   tabster/templates/login.html\n#\tnew file:   tabster/templates/oldindex.html\n#\tnew file:   tabster/templates/search.html\n#\tnew file:   tabster/templates/single_col.html\n#\tnew file:   tabster/utilities.py\n#\tnew file:   tabster/views.py\n#\n",
-			"settings":
-			{
-				"buffer_size": 3220,
-				"line_ending": "Unix",
-				"name": "COMMIT_EDITMSG",
-				"scratch": true
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -82,12 +72,28 @@
 		"selected_items":
 		[
 			[
-				"remove pack",
-				"Package Control: Remove Package"
-			],
-			[
 				"push",
 				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git rem",
+				"Git: Remote"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
 			],
 			[
 				"remote",
@@ -96,10 +102,6 @@
 			[
 				"upstr",
 				"Github: Repository"
-			],
-			[
-				"commit",
-				"Git: Commit"
 			],
 			[
 				"git remo",
@@ -203,10 +205,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/chiccolacriola/Workspace/Tabs/Tabster"
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster"
 	],
 	"file_history":
 	[
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/app.py",
+		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/forms.py",
 		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/templates/index.html",
 		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/static/css/style.css",
 		"/Users/chiccolacriola/Workspace/Tabs/Tabster/tabster/views.py",
@@ -353,39 +358,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3220,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								254,
-								254
-							]
-						],
-						"settings":
-						{
-							"default_dir": "/Users/chiccolacriola/Desktop/Chicco/Fincons/HTML, CSS, JS",
-							"git_repo": "/Users/chiccolacriola/Workspace/Tabs/Tabster",
-							"git_view": "commit",
-							"syntax": "Packages/SublimeGit/syntax/SublimeGit Commit Message.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -436,7 +410,15 @@
 	{
 		"height": 138.0
 	},
+	"output.git-commit":
+	{
+		"height": 150.0
+	},
 	"output.git-push":
+	{
+		"height": 150.0
+	},
+	"output.git-remote":
 	{
 		"height": 150.0
 	},

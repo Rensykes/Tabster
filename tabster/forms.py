@@ -16,4 +16,4 @@ class SearchForm(FlaskForm):
                ('Typology','Typology')]
     select = SelectField('Search: ', choices = choices)
     search = StringField('')
-    submit = SubmitField('Search')
+    submit = SubmitField('Search') # comment
